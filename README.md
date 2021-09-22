@@ -8,7 +8,7 @@ cryptography,
 firmware security
 
 - 🌱 I’m currently learning ...
-CSCE 4110 Algorithms, Wireshark, and Burp Suite
+CSCE 4110 Algorithms, Wireshark, Burp Suite
 
 - 📫 How to reach me ...
 e-mail: 
