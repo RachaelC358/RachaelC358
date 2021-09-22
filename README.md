@@ -4,11 +4,11 @@ grad date April 2023
 
 - 👀 I’m interested in ...
 quantum computing,
-cryptography,
-natural language processing
+cryptography, 
+firmware security
 
 - 🌱 I’m currently learning ...
-CSCE 4110 Algorithms
+CSCE 4110 Algorithms, Wireshark, and Burp Suite
 
 - 📫 How to reach me ...
 e-mail: 
