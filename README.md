@@ -5,7 +5,7 @@ grad date April 2023
 - 👀 I’m interested in ...
 quantum computing,
 cryptography, 
-firmware security
+reverse engineering
 
 - 🌱 I’m currently learning ...
 CSCE 4110 Algorithms, Wireshark, Burp Suite
