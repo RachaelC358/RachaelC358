@@ -3,12 +3,11 @@ CS major at UNT,
 grad date April 2023
 
 - 👀 I’m interested in ...
-quantum computing,
-cryptography, 
-reverse engineering
+defensive web security
+svelte, reactivity, and javascript
 
 - 🌱 I’m currently learning ...
-CSCE 4110 Algorithms, Wireshark, Burp Suite
+CSCE 5290 Natural Language Processing using Python
 
 - 📫 How to reach me ...
 e-mail: 
