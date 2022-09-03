@@ -3,8 +3,7 @@ CS major at UNT,
 grad date April 2023
 
 - 👀 I’m interested in ...
-defensive web security
-svelte, reactivity, and javascript
+defensive web security and svelte reactivity
 
 - 🌱 I’m currently learning ...
 CSCE 5290 Natural Language Processing using Python
