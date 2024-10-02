@@ -1,7 +1,8 @@
 
+Hello, 
+I'm a software engineer with a web development background and strong interest in cybersecurity and cloud technology.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RachaelC358&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
+Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
 <h3>I have experience with these: </h3>
 <p>
