@@ -4,7 +4,7 @@ I'm a software engineer with a web development background and strong interest in
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
-I am CompTIA Security+ certified: https://www.credly.com/users/rachael-carpenter.c5db3b6e
+I am CompTIA Security+ certified! https://www.credly.com/users/rachael-carpenter.c5db3b6e
 
 <h3>I have experience with these: </h3>
 <p>
@@ -24,11 +24,13 @@ I am CompTIA Security+ certified: https://www.credly.com/users/rachael-carpenter
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="DataDog" src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <h3>I am currently learning: </h3>
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>  
   
