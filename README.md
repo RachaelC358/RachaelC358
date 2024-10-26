@@ -1,6 +1,5 @@
 
 Hello, 
-I'm a software engineer with a web development background and strong interest in cybersecurity and cloud technology.
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
