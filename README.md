@@ -3,8 +3,6 @@ Hello,
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
-I am CompTIA Security+ certified! https://www.credly.com/users/rachael-carpenter.c5db3b6e
-
 <h3>I have experience with these: </h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=for-the-badge&logo=javascript&logoColor=black" />
