@@ -28,6 +28,6 @@ Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpente
 <h3>I am currently learning: </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/>
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>  
   
