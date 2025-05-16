@@ -1,7 +1,7 @@
 
 Hello, 
 
-Checkout my latest project's website! https://shrimp-secure-cache.com/
+Check out my latest project's website! https://shrimp-secure-cache.com/
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
