@@ -5,7 +5,7 @@ Check out my latest project's website! https://shrimp-secure-cache.com/
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="adf24a67-25ab-424f-afd3-404f048d4b4a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://images.credly.com/size/200x200/images/.../image.png" alt="AWS Badge" width="120" />
 
 <h3>I have experience with these: </h3>
 <p>
