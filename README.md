@@ -5,7 +5,7 @@ Check out my latest project's website! https://shrimp-secure-cache.com/
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
-[![AWS Certified Badge](https://images.credly.com/size/340x340/images/12345678-90ab-cdef-1234-567890abcdef/aws-certified-badge.png)](https://www.credly.com/badges/adf24a67-25ab-424f-afd3-404f048d4b4a/public_url)
+[![AWS Certified Badge](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/adf24a67-25ab-424f-afd3-404f048d4b4a/public_url)
 
 <h3>I have experience with these: </h3>
 <p>
