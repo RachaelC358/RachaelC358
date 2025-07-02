@@ -7,7 +7,7 @@ Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpente
 
 
 
-I'm certified! Click on each image to learn more:
+I'm certified! Click on each badge to learn more:
 <p>
   <a href="https://www.credly.com/badges/adf24a67-25ab-424f-afd3-404f048d4b4a/public_url"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Badge" width="110"/></a><a href="https://www.credly.com/badges/39d1a92f-ea98-4a76-84f1-62321668e82a/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="110"/></a><a href="https://www.credly.com/badges/f3457ccc-e253-4c56-96fa-02f77353d12d/public_url"><img src="https://images.credly.com/size/220x220/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="Security+ Certified Badge" width="110"/></a>
 </p>
