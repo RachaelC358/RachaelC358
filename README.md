@@ -5,6 +5,8 @@ Check out my latest project's website! https://shrimp-secure-cache.com/
 
 Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpenter-csengineer/
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="adf24a67-25ab-424f-afd3-404f048d4b4a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3>I have experience with these: </h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,4 +32,6 @@ Find my Linkedin Profile over here: https://www.linkedin.com/in/rachael-carpente
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>  
+
+
   
